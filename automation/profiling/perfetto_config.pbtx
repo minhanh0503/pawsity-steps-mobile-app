@@ -1,0 +1,26 @@
+buffers: {
+  size_kb: 16384
+  fill_policy: RING_BUFFER
+}
+data_sources: {
+  config {
+    name: "linux.process_stats"
+  }
+}
+data_sources: {
+  config {
+    name: "android.power"
+  }
+}
+data_sources: {
+  config {
+    name: "android.memory"
+  }
+}
+data_sources: {
+  config {
+    name: "android.cpu"
+  }
+}
+# Add more data sources as needed
+

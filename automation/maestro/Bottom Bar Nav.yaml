@@ -1,0 +1,34 @@
+appId: com.example.eecs4443_team7_project
+---
+# START UI NAVIGATION A
+- assertVisible: Pawsitive Steps
+- tapOn: # Participant Name
+    point: 20%,40%
+- inputText: "1"
+- tapOn: Bottom Bar Nav Only
+- tapOn: Start
+- tapOn: # Pet Name
+    point: 10%,28%
+- inputText: "1"
+- tapOn: Start journey
+- tapOn: Start # Modal
+- tapOn: Quests
+- tapOn:
+    text: Claim
+    index: 4
+- tapOn: # Shop
+    point: 84%,89%
+    delay: 300
+- tapOn: WITCH
+- tapOn: # Closet
+    point: 23%,89%
+    delay: 300
+- tapOn: # Equip Item
+    point: 7%,49%
+    delay: 300
+- tapOn: # Home
+    point: 2%,89%
+    delay: 300
+- tapOn: Settings
+# RESET STATE FOR NEXT UI
+- tapOn: Reset State (for testing)

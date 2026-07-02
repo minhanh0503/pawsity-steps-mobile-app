@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pawsitive Steps"
+        android:textSize="32sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:layout_marginTop="24dp" />
+
+    <RadioGroup
+        android:id="@+id/radioGroupNavOptions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="24dp">
+
+        <RadioButton
+            android:id="@+id/radioBottomBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bottom Bar Nav Only" />
+
+        <RadioButton
+            android:id="@+id/radioHamburger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hamburger Nav Only" />
+
+        <RadioButton
+            android:id="@+id/radioBoth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bottom+Burger Nav" />
+    </RadioGroup>
+
+    <!-- Add navigation toggle UI here if using XML layouts -->
+
+</LinearLayout>

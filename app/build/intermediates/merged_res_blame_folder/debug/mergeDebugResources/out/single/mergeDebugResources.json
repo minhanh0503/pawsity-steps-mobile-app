@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_catnip.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_catnip.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_bow.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_bow.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_mood_sad.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_mood_sad.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_achievement.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_achievement.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_head.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_head.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\layout-sw600dp_activity_main.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_cat_face_3.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_cat_face_3.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_body.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_body.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_cat_face_5.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_cat_face_5.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_cat_outline.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_cat_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_social.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_social.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_cat_face_2.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_cat_face_2.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_mood_angy.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_mood_angy.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_pearls.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_pearls.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_cat_fill.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_cat_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_cat_face_1.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_cat_face_1.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_mood_meh.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_mood_meh.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_crown.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_crown.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_arrow.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_closet.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_closet.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_tie.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_tie.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_tracker.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_tracker.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_mood_happyhappyhappy.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_mood_happyhappyhappy.png"
+    },
+    {
+        "merged": "com.example.eecs4443_team7_project.app-debug-3:/raw_bonk_btn_sound.mp3.flat",
+        "source": "com.example.eecs4443_team7_project.app-main-5:/raw/bonk_btn_sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_witch.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_witch.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_journal.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_journal.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_paw.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_paw.png"
+    },
+    {
+        "merged": "com.example.eecs4443_team7_project.app-debug-3:/raw_bgm.aac.flat",
+        "source": "com.example.eecs4443_team7_project.app-main-5:/raw/bgm.aac"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_text_bubble.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_text_bubble.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_habit.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_habit.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_hat.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_hat.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_shop.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_shop.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_gear.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_gear.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_mental.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_mental.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_trail_graphic.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\trail_graphic.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_quests.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_quests.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_cat_face_4.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_cat_face_4.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_mood_happy.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_mood_happy.png"
+    },
+    {
+        "merged": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-debug-3:\\drawable_ic_physical.png.flat",
+        "source": "C:\\Users\\cunye\\.gradle\\daemon\\9.1.0\\com.example.eecs4443_team7_project.app-main-5:\\drawable\\ic_physical.png"
+    },
+    {
+        "merged": "com.example.eecs4443_team7_project.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.example.eecs4443_team7_project.app-main-5:/layout/activity_main.xml"
+    }
+]
