@@ -18,6 +18,7 @@ The application follows the **Model-View-Controller (MVC)** architectural patter
 
 ## UI Overview 
 <img width="406" height="452" alt="image" src="https://github.com/user-attachments/assets/cb4e73b6-5871-467e-a2ad-56a744db8530" />
+
 For a detailed and full version of our UI design, visit our Figma: https://www.figma.com/design/HmOfR3wYs97AWpwDWJrf6K/Team7-Project4443-Wireframe?node-id=0-1&p=f&t=aYRvlHo0KvOcicRE-0 
 
 ---
