@@ -22,6 +22,16 @@ For a detailed and full version of our UI design, visit our Figma: https://www.f
 
 ---
 
+## Demo
+
+Watch the full app walkthrough here:
+
+- App Demo Video: [https://your-video-link-here](https://youtu.be/2to3n-sVJxM)
+
+The demo showcases core gameplay, navigation flows, and the gamification system (step tracking, quests, shop, and pet progression).
+
+---
+
 ## Research Study Summary
 
 This project includes an embedded user study investigating the impact of different navigation structures on user experience and performance.
@@ -98,9 +108,8 @@ These patterns were chosen to support scalability, modularity, and clean separat
 - UI testing was performed using **Maestro Studio**.
 
 ### UI Testing
-- Maestro Studio was used for automated UI testing workflows  
-- Demo video: https://www.youtube.com/watch?v=mGHJj6b67NQ  
-- Participant trial demo: https://www.youtube.com/shorts/fExQJlITuM4  
+- Maestro Studio was used for automated UI testing workflows: https://www.youtube.com/watch?v=mGHJj6b67NQ  
+- Participant trial demo: https://www.youtube.com/shorts/fExQJlITuM4
 
 ### Unit Testing
 Unit tests were implemented to validate core logic and ensure expected behavior throughout development.
