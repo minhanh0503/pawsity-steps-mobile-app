@@ -1,33 +1,44 @@
 # EECS4443 Group Project: Team 7 - Pawsitive Steps
 
-
 ## Overview
 
-There was no README requested in the project instructions but a basic one will be here anyway for the sake of consistency!
+**Pawsitive Steps** is a gamified fitness tracking Android application developed as part of the EECS4443 course project. The app encourages users to stay active by tracking daily steps and rewarding progress through a virtual pet-based gamification system. As users reach their step goals, their virtual companion grows and evolves, creating motivation for consistent physical activity.
 
+This project explores the integration of mobile health tracking, gamification techniques, and user-centered design to promote healthier lifestyle habits.
+
+---
 
 ## Architecture
 
-This project was approached with an MVC file organization approach, as well as utilizing the Single Activity Architecture for modern Android application practices.
+This project was implemented using the **MVC (Model-View-Controller)** architectural pattern, along with the **Single Activity Architecture** approach, following modern Android development best practices. This structure helps separate concerns, improve maintainability, and simplify navigation and state management across the app.
 
+---
 
 ## Group Members
 
-Kevin Ho - 217471129
-Minh Anh Nguyen - 219116714
-An Vu - 218207043
+- Kevin Ho - 217471129  
+- Minh Anh Nguyen - 219116714  
+- An Vu - 218207043  
 
+---
 
 ## Running and Testing
 
-The basic `Medium PHone API 36.1` should suffice, this was written in API36 to match with the phone's OS that we had used to conduct our participant trials.
+To run the application, a device or emulator with **Android API Level 36 (Medium Phone API 36.1)** is recommended. The project was developed and tested against API 36 to align with the device environment used during participant trials.
 
-UI modules were tested using `Maestro Studio`, an example of how the automated testing suite works can be found in their official video here: https://www.youtube.com/watch?v=mGHJj6b67NQ
-Our video of testing the participant trial flow using Maestro can be found here: https://www.youtube.com/shorts/fExQJlITuM4 (Rest of music is muted due to copyright)
+### UI Testing
+UI modules were tested using **Maestro Studio**. An example of the automated UI testing workflow can be found here:  
+https://www.youtube.com/watch?v=mGHJj6b67NQ  
 
-Unit tests were also incorporated into this project to help guide development with outputs we already knew we wanted from our classes.
+A demonstration of the participant trial flow testing using Maestro is available here:  
+https://www.youtube.com/shorts/fExQJlITuM4  
+*(Note: background music was muted due to copyright restrictions.)*
 
+### Unit Testing
+Unit tests were implemented throughout development to validate core logic and ensure expected outputs across key application components.
+
+---
 
 ## Credits
 
-BGM: ねこあつめのテーマ · Ryo Shintani
+- BGM: ねこあつめのテーマ · Ryo Shintani  
