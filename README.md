@@ -27,7 +27,7 @@ For a detailed and full version of our UI design, visit our Figma: https://www.f
 
 Watch the full app walkthrough here:
 
-- App Demo Video: [https://your-video-link-here](https://youtu.be/2to3n-sVJxM)
+- App Demo Video: [PawsitySteps - Demo](https://youtu.be/2to3n-sVJxM)
 
 The demo showcases core gameplay, navigation flows, and the gamification system (step tracking, quests, shop, and pet progression).
 
