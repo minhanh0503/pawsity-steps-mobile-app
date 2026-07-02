@@ -2,43 +2,122 @@
 
 ## Overview
 
-**Pawsitive Steps** is a gamified fitness tracking Android application developed as part of the EECS4443 course project. The app encourages users to stay active by tracking daily steps and rewarding progress through a virtual pet-based gamification system. As users reach their step goals, their virtual companion grows and evolves, creating motivation for consistent physical activity.
+**Pawsitive Steps** is a gamified mobile fitness and wellness tracking Android application developed as part of the EECS4443 course project. The application encourages users to build healthy habits by tracking daily step counts and rewarding progress through a virtual pet system.
 
-This project explores the integration of mobile health tracking, gamification techniques, and user-centered design to promote healthier lifestyle habits.
+As users complete fitness goals, they unlock in-app rewards such as items, progression, and pet interactions, making habit formation more engaging and motivating.
+
+This project also serves as a research prototype to evaluate how **navigation design and gamification influence usability, performance, and user satisfaction** in mobile wellness applications.
 
 ---
 
 ## Architecture
 
-This project was implemented using the **MVC (Model-View-Controller)** architectural pattern, along with the **Single Activity Architecture** approach, following modern Android development best practices. This structure helps separate concerns, improve maintainability, and simplify navigation and state management across the app.
+The application follows the **Model-View-Controller (MVC)** architectural pattern and adopts a **Single-Activity Architecture**, consistent with modern Android development practices. This approach improves modularity, simplifies navigation handling, and enhances maintainability.
 
 ---
 
-## Group Members
+## UI Overview 
+<img width="406" height="452" alt="image" src="https://github.com/user-attachments/assets/cb4e73b6-5871-467e-a2ad-56a744db8530" />
+For a detailed and full version of our UI design, visit our Figma: https://www.figma.com/design/HmOfR3wYs97AWpwDWJrf6K/Team7-Project4443-Wireframe?node-id=0-1&p=f&t=aYRvlHo0KvOcicRE-0 
 
-- Kevin Ho - 217471129  
-- Minh Anh Nguyen - 219116714  
-- An Vu - 218207043  
+---
+
+## Research Study Summary
+
+This project includes an embedded user study investigating the impact of different navigation structures on user experience and performance.
+
+### Navigation Conditions Tested
+- **A:** Bottom Navigation Bar  
+- **B:** Hamburger Side Menu  
+- **C:** Hybrid Navigation (Bottom Bar + Hamburger Menu)
+
+### Study Design
+- 12 participants in total
+- Within-subject and between-subject design
+- Counterbalanced trial orders (ABC, ACB, BAC, etc.)
+- Tasks completed across 3 UI versions per participant (phone group)
+
+### Core Tasks
+Participants completed the following workflow:
+1. Navigate Home → Quest screen and claim a card  
+2. Quest → Shop and purchase a hat  
+3. Shop → Closet and equip the hat  
+4. Closet → Settings (end of trial)
+
+### Measured Metrics
+- Task completion time
+- Error count
+- CPU usage
+- Memory (RSS) usage
+- Post-study usability survey
+
+---
+
+## Key Findings (Summary)
+
+- No statistically significant differences were found between navigation styles in:
+  - Task completion time
+  - Error rates
+  - CPU usage
+  - Memory usage
+
+- **Hybrid navigation (C)**:
+  - Fastest average task completion time
+  - Highest user preference in surveys
+
+- **Hamburger navigation (B)**:
+  - Highest CPU usage on average
+
+- User feedback indicated:
+  - High usability and satisfaction overall
+  - Strong preference for hybrid navigation
+  - No noticeable lag or performance issues
+
+Overall, results suggest that **navigation design has a stronger impact on user preference than measurable performance differences** in short-term usage scenarios.
+
+---
+
+## Architecture
+
+This project was implemented using:
+- **MVC (Model-View-Controller)** design pattern
+- **Single Activity Architecture**
+
+These patterns were chosen to support scalability, modularity, and clean separation of concerns in Android development.
 
 ---
 
 ## Running and Testing
 
-To run the application, a device or emulator with **Android API Level 36 (Medium Phone API 36.1)** is recommended. The project was developed and tested against API 36 to align with the device environment used during participant trials.
+### Requirements
+- Android Studio (recommended latest version)
+- Android Emulator: **Medium Phone API 36.1 (API 36)**
+
+### Notes
+- Developed and tested using API 36 to match experimental device conditions.
+- UI testing was performed using **Maestro Studio**.
 
 ### UI Testing
-UI modules were tested using **Maestro Studio**. An example of the automated UI testing workflow can be found here:  
-https://www.youtube.com/watch?v=mGHJj6b67NQ  
-
-A demonstration of the participant trial flow testing using Maestro is available here:  
-https://www.youtube.com/shorts/fExQJlITuM4  
-*(Note: background music was muted due to copyright restrictions.)*
+- Maestro Studio was used for automated UI testing workflows  
+- Demo video: https://www.youtube.com/watch?v=mGHJj6b67NQ  
+- Participant trial demo: https://www.youtube.com/shorts/fExQJlITuM4  
 
 ### Unit Testing
-Unit tests were implemented throughout development to validate core logic and ensure expected outputs across key application components.
+Unit tests were implemented to validate core logic and ensure expected behavior throughout development.
+
+---
+
+## Group Members
+
+- Kevin Ho — 217471129  
+- Minh Anh Nguyen — 219116714  
+- An Vu — 218207043  
 
 ---
 
 ## Credits
 
 - BGM: ねこあつめのテーマ · Ryo Shintani  
+- UI testing framework: Maestro Studio  
+
+
